@@ -12,7 +12,7 @@ Folder bin berisi executable jar yang dapat dijalankan menggunakan docker compos
 2. Untuk mematikan aplikasi beserta menghapus volume: `docker-compose down -v`
 3. Untuk melihat log aplikasi: `docker logs apps_balanceapi`
 
-Folder src berisi source code dari aplikasi Balance API.
+Folder balance-api berisi source code dari aplikasi Balance API.
 
 # API Login (POST)
 
