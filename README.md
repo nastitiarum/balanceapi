@@ -7,6 +7,10 @@ Aplikasi ini berisi API login, create account, check balance, topup, redeem dan 
  - Redis
  - MongoDB
 
+Untuk binary file, karena file terlalu besar mohon untuk mengunduh pada URL berikut: [https://www.dropbox.com/s/e39eofjf1km0uzc/bin.zip?dl=0](https://www.dropbox.com/s/e39eofjf1km0uzc/bin.zip?dl=0)
+
+Setelah unduhan selesai, extract file tersebut.
+
 Folder bin berisi executable jar yang dapat dijalankan menggunakan docker compose, dengan perintah:
 1. Untuk menjalankan aplikasi: `docker-compose up -d`
 2. Untuk mematikan aplikasi beserta menghapus volume: `docker-compose down -v`
